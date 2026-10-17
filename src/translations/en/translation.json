@@ -103,7 +103,8 @@
     "languages": {
       "title": "Language",
       "en": "English",
-      "es": "Spanish"
+      "es": "Spanish",
+      "fr": "French"
     }
   },
   "token": {
